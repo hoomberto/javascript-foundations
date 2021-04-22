@@ -48,7 +48,7 @@ Completing all of these test suites is not necessary, but you should be working 
 - [X] 🏞 [Oregon Trail](./oregon-trail)
 - [X] 🍫 Vending Machine
 - [X] 🏃🏻‍♀️ Road Race
-- [ ] 🔮 [Wizarding Arrays](./wizarding-arrays)
+- [X] 🔮 [Wizarding Arrays](./wizarding-arrays)
 - [X] ⚡️ [Wizarding Objects](./wizarding-objects)
 
 - [x] Want to track your progress? First, make sure you're on a forked version of this repo. Then, you can edit the README and change `[ ]` to `[x]` on the suites you've completed!
